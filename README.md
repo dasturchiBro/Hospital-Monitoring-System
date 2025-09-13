@@ -1,4 +1,4 @@
-# Hospital-Monitoring-System
+# Flex Manager – Hospital Patient Monitoring System
  
 ## You can use this system to monitor patients at the hospital. 👨🏽‍💻
 * The system has admin panel and monitor panel.
@@ -15,7 +15,7 @@
 More details with images:
 
 ------------
-Initial plan for the project by me: <br>
+Initial plan for the project: <br>
 <img src="https://raw.githubusercontent.com/fayozbekpro/Hospital-Monitoring-System/main/a1.jpg" width="300" alt="EXAMPLES"/>
 <br><br><br><br><br><br><br><br>
 <img src="https://raw.githubusercontent.com/fayozbekpro/Hospital-Monitoring-System/main/Screenshot_1.png" width="500" alt="EXAMPLES"/>
